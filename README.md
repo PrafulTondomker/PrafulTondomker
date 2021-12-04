@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @PrafulTondomker
 - 👀 I’m interested in Development
 - 🌱 I’m currently learning GO
-- 💞️ I’m looking to collaborate on livestream-service
+- 💞️ I’m looking to collaborate on VG and livestream-service
 - 📫 How to reach me prafultondomker@sharechat.co
 
 <!---
